@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ## Usage
 Run basic subdomain discovery:
-python recon_strike.py -d example.com
+```python recon_strike.py -d example.com```
 
 Run discovery with active IP resolution and port scanning:
-python recon_strike.py -d example.com --resolve
+```python recon_strike.py -d example.com --resolve```
